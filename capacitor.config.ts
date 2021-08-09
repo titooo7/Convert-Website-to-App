@@ -1,10 +1,10 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.jamesonsaunders.convertwebsitetoapp',
-  appName: 'Website to App',
+  appId: 'com.play.geforcenow',
+  appName: 'Play GeForce NOW',
   webDir: 'www',
-  bundledWebRuntime: false,
+  bundledWebRuntime: false
 };
 
 export default config;
